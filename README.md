@@ -1,6 +1,6 @@
 # The Marble Game
 
-Welcome to The Marble Game project. This repository hosts the beginnings of a 2D mobile platformer game engine, developed as a personal project during my first year at university. The primary goal behind this endeavor was to deepen my understanding of programming concepts through the lens of game development.
+Welcome to The Marble Game project. This repository hosts the beginnings of a 2D platformer game engine, developed as a personal project during my first year at university for android devices. The primary goal behind this endeavor was to deepen my understanding of programming concepts through the lens of game development.
 
 ## Notable Features
 
