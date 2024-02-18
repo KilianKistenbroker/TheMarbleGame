@@ -9,7 +9,6 @@ The engine, though still a work in progress, includes a range of features:
 - **Collision Detection**: Ensures accurate interactions between objects within the game world.
 - **Scene Management**: Facilitates the smooth transition and management of different game scenes or levels.
 - **Follow Camera**: A camera system that dynamically follows the player's movements.
-- **Enemy Behavior**: Basic AI for enemy movements and interactions.
 - **Menu System**: An intuitive interface for navigating through game options.
 - **Physics System**: Simulates realistic physical interactions between game entities.
 - **Touch Controls**: Responsive touch input for mobile platforms.
